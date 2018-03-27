@@ -2,7 +2,7 @@
 
 ### Introduce
 基于[umi](https://umijs.org/docs/zh-Hans/introduction.html)+[dva](https://github.com/dvajs/dva)+TypeScript的脚手架，umi作为工具+路由，dva作为数据层（主要是redux+redux-saga），TypeScript则是带来了可选的静态类型检查以及最新的ECMAScript特性。视图层您可以选择antd，material-ui等组件库。基于antd pro版的中后台脚手架请移步到[umi-dva-antd-pro](https://github.com/PerkinJ/umi-dva-antd-pro)项目，项目大部分代码都是重用了 ant design pro。
-
+
 ### Quick Start
 ```
 git@github.com:PerkinJ/umi-dva-ts-starter.git
