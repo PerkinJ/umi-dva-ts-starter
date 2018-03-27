@@ -15,10 +15,10 @@ function Header({ location }) {
         <Link to="/users"><Icon type="bars" />Users</Link>
       </Menu.Item>
       <Menu.Item key="/umi">
-        <a href="https://github.com/umijs/umi" target="_blank">umi</a>
+        <a href="https://github.com/umijs/umi" rel="noopener noreferrer" target="_blank">umi</a>
       </Menu.Item>
       <Menu.Item key="/dva">
-        <a href="https://github.com/dvajs/dva" target="_blank">dva</a>
+        <a href="https://github.com/dvajs/dva" rel="noopener noreferrer" target="_blank">dva</a>
       </Menu.Item>
       <Menu.Item key="/404">
         <Link to="/page-you-dont-know"><Icon type="frown-circle" />404</Link>
